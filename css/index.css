@@ -1,0 +1,38 @@
+
+
+.banner{
+    background-color:cornflowerblue;
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.Titulo{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+th,td{
+    padding: .7em;
+    margin: 0;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+}
+
+.container{
+	width: 60%;
+	height: 100%;
+	margin: 0 auto;
+
+}
+
+section{
+	margin: 2em 0;
+	overflow: hidden;
+}
+
+h2{
+    text-align: center;
+    
+}
+
